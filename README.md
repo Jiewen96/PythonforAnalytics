@@ -2,3 +2,5 @@
 
 
 mix potato
+
+### Installation
