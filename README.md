@@ -7,7 +7,7 @@ mix potato
 python3 setup.py install
 
 ### Algorithm 
-The base contains one function and one class. The function contained simply prints 'Hello World' when called. The salad class consists two functions: read and write. Read transforms the input values into separate files and write function turns these files into a dictionary. 
+The base.py contains one function and one class. The function contained simply prints 'Hello World' when called. The salad class consists two functions: read and write. Read transforms the input values into separate files and write function turns these files into a dictionary. 
 
 ### Final Output 
 
