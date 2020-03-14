@@ -1,4 +1,4 @@
-# assign-3 - python 
+# Assign-3 - Python 
 
 
 mix potato
