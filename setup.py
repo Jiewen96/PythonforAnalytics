@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="Jiewen96", # Replace with your own username
     version="0.0.1",
-    author="Jiewen",
-    author_email="jiewenwu1996@gmail.com",
+    author="Jiewen Wu",
+    author_email="jwu96@uchicago.edu",
     description="MSCA CLASS",
     long_description=long_description,
     long_description_content_type="text/markdown",
