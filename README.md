@@ -11,11 +11,12 @@ The base.py contains one function and one class. The function contained simply p
 
 ### Final Output 
 
-Example:
-salad_items = ['lettuce', 'tomato']
-salad_numbers = [2, 3]
+Example:  
 
-mysalad will return {'lettuce': 2, 'tomato': 3} as the final product 
+salad_items = ['lettuce', 'tomato'] 
+salad_numbers = [2, 3]  
+
+mysalad returns {'lettuce': 2, 'tomato': 3} as the final product 
 
 The whole process(read and write) takes:
 The start time is : 10849.978258628
